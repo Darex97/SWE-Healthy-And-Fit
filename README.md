@@ -1,12 +1,12 @@
 # SWE-Healthy-And-Fit
 
-## Web-aplikacija za praćenje zdravlja i fitnesa
+## Web-app for health and fitness tracking
 
 **Technologies:**
 
 - **Frontend:** Angular 13
 - **Backend:** C# .NET 5
-- **Baza podataka:** MySQL
+- **Database:** MySQL
 - **ORM:** Entity Framework
 
 ## Versions:
