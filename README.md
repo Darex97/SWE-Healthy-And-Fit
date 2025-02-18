@@ -4,18 +4,17 @@
 
 **Technologies:**
 
-- **Frontend:** Angular 16
-- **Backend:** C# .NET 6
+- **Frontend:** Angular 13
+- **Backend:** C# .NET 5
 - **Baza podataka:** MySQL
 - **ORM:** Entity Framework
 
 ## Versions:
 
-- **Angular CLI:** 16.2.9
-- **Node:** 18.18.2
-- **Package Manager:** npm 9.8.1
-- **Angular:** 16.2.12
-- **.NET:** 6.0
+- **Angular CLI:** 13.3.3
+- **Node:** 12.11.1
+- **Angular:** 13.3.0
+- **.NET:** 5.0
 
 # Startup commands
 
